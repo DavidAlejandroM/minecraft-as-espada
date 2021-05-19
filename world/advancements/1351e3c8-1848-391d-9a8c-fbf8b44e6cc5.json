@@ -1,0 +1,63 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-05-19 21:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-05-19 21:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-05-19 21:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-05-19 21:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-05-19 21:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-05-19 21:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2021-05-19 21:11:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-05-19 21:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2021-05-19 21:11:50 +0000",
+      "minecraft:desert": "2021-05-19 21:17:14 +0000",
+      "minecraft:badlands": "2021-05-19 21:11:37 +0000",
+      "minecraft:beach": "2021-05-19 21:19:20 +0000",
+      "minecraft:river": "2021-05-19 21:11:13 +0000",
+      "minecraft:wooded_badlands_plateau": "2021-05-19 21:15:12 +0000",
+      "minecraft:plains": "2021-05-19 21:10:47 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2715
+}
