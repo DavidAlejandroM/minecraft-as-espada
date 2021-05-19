@@ -1,3 +1,4 @@
+#! /bin/bash
 cd /home/server/minecraft/minecraft_data
 
 git add .;
