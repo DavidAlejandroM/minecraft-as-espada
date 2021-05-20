@@ -959,6 +959,7 @@
       "minecraft:skeleton": "2021-05-19 17:33:36 +0000",
       "minecraft:spider": "2021-05-19 02:09:09 +0000",
       "minecraft:creeper": "2021-05-19 22:10:26 +0000",
+      "minecraft:phantom": "2021-05-20 04:07:17 +0000",
       "minecraft:enderman": "2021-05-19 22:09:14 +0000",
       "minecraft:zombie": "2021-05-19 02:10:18 +0000"
     },
@@ -1790,6 +1791,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-05-19 04:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-05-20 04:06:45 +0000"
     },
     "done": true
   },
