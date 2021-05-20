@@ -67,3 +67,36 @@
 [18:26:17] [Server thread/INFO]: davidalejo2408 left the game
 [18:26:23] [Server thread/INFO]: davidalejo2408[/192.168.0.101:53884] logged in with entity id 6852 at (-80.76185239204769, 63.0, 361.6086496544345)
 [18:26:23] [Server thread/INFO]: davidalejo2408 joined the game
+[18:32:56] [Server thread/WARN]: davidalejo2408 moved too quickly! -8.739507090706766,-5.0,0.4253891232770002
+[18:35:21] [Server thread/INFO]: davidalejo2408 was slain by Zombie
+[18:39:41] [Server thread/INFO]: Siel347[/172.250.28.145:61349] logged in with entity id 8686 at (1351.1294968698476, 68.5, -297.19999998807907)
+[18:39:41] [Server thread/INFO]: Siel347 joined the game
+[18:42:05] [Server thread/INFO]: Villager bja['Librarian'/8831, l='ServerLevel[world]', x=1370.49, y=63.00, z=-337.49] died, message: 'Librarian was slain by Zombie'
+[18:42:54] [Server thread/INFO]: Siel347 was shot by Skeleton
+[18:43:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[18:43:39] [Server thread/INFO]: <davidalejo2408> oelo
+[18:43:42] [Server thread/INFO]: davidalejo2408 lost connection: Disconnected
+[18:43:42] [Server thread/INFO]: davidalejo2408 left the game
+[18:43:44] [Server thread/INFO]: davidalejo2408[/179.15.115.58:54816] logged in with entity id 10563 at (-79.8060518519435, 63.0, 357.38111114035644)
+[18:43:44] [Server thread/INFO]: davidalejo2408 joined the game
+[18:43:54] [Server thread/INFO]: <davidalejo2408> oe
+[18:43:58] [Server thread/INFO]: <davidalejo2408> te mataron
+[18:44:25] [Server thread/INFO]: <Siel347> see
+[18:44:25] [Server thread/WARN]: davidalejo2408 moved too quickly! 0.0,-10.05000039935112,0.0
+[18:44:37] [Server thread/INFO]: <davidalejo2408> hay lag o me parece?
+[18:48:01] [Server thread/WARN]: davidalejo2408 moved too quickly! -0.2147330518986621,0.0,10.090019013591814
+[18:48:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[18:49:09] [Server thread/INFO]: <davidalejo2408> parce hay mucho lag
+[18:49:18] [Server thread/INFO]: <Siel347> Si
+[18:49:25] [Server thread/INFO]: <Siel347> yo mori por culpa del lag
+[18:49:32] [Server thread/INFO]: <Siel347> me mato un esqueleto de la nada
+[18:49:50] [Server thread/INFO]: <Siel347> la RBpi deberia llegar pronto
+[18:49:56] [Server thread/INFO]: <Siel347> a ver si podemos solucionar eso
+[18:50:08] [Server thread/INFO]: <davidalejo2408> ojala
+[18:50:16] [Server thread/INFO]: <davidalejo2408> voy a pillar que puedo hacer
+[18:56:28] [Server thread/INFO]: <Siel347> Voy a entrar al server a ver que podemos hacer desde la configuracion
+[18:58:26] [Server thread/INFO]: <davidalejo2408> voy a ver si le cambio la ip para que no tenga que pasar por un router adicional
+[18:59:07] [Server thread/INFO]: <Siel347> Los valores que tiene por defectos son los recomendados para optimizar la conexion
+[18:59:14] [Server thread/INFO]: <Siel347> nada que hacer por ese lado
+[18:59:28] [Server thread/INFO]: <Siel347> si lo de la raspberry no funciona, podemos volver a mirar lo del server
+[18:59:59] [Server thread/INFO]: <Siel347> a la final si trajeron los aldeanos?
