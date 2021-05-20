@@ -40,3 +40,24 @@
 [16:24:06] [Server thread/INFO]: Thread RCON Listener started
 [16:24:06] [Server thread/INFO]: RCON running on 0.0.0.0:25575
 [16:24:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[17:03:48] [Server thread/INFO]: davidalejo2408[/179.15.115.58:62952] logged in with entity id 209 at (1353.7779198063395, 64.0, -309.6502515490377)
+[17:03:48] [Server thread/INFO]: davidalejo2408 joined the game
+[17:04:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[17:04:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4195ms or 83 ticks behind
+[17:04:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7079ms or 141 ticks behind
+[17:08:10] [Server thread/INFO]: davidalejo2408 lost connection: Timed out
+[17:08:10] [Server thread/INFO]: davidalejo2408 left the game
+[17:08:20] [Server thread/INFO]: davidalejo2408[/179.15.115.58:63100] logged in with entity id 1503 at (1344.4268723341008, 66.0, -318.2045392311288)
+[17:08:20] [Server thread/INFO]: davidalejo2408 joined the game
+[17:08:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2370ms or 47 ticks behind
+[17:24:31] [Server thread/WARN]: davidalejo2408 moved too quickly! -7.153070751860923,-7.0,-0.3118534924324763
+[17:29:52] [Server thread/WARN]: davidalejo2408 was kicked for floating too long!
+[17:29:52] [Server thread/INFO]: davidalejo2408 lost connection: Flying is not enabled on this server
+[17:29:52] [Server thread/INFO]: davidalejo2408 left the game
+[17:29:55] [Server thread/INFO]: davidalejo2408[/179.15.115.58:64018] logged in with entity id 5457 at (1256.9203099805297, 65.25220334025373, -309.06598718816633)
+[17:29:55] [Server thread/INFO]: davidalejo2408 joined the game
+[17:30:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7975ms or 159 ticks behind
+[17:31:16] [Server thread/INFO]: davidalejo2408 was shot by Skeleton
+[17:31:18] [Server thread/WARN]: davidalejo2408 moved too quickly! -1265.1864524653079,23.0,559.6767293156494
+[17:36:06] [Server thread/INFO]: davidalejo2408 lost connection: Disconnected
+[17:36:06] [Server thread/INFO]: davidalejo2408 left the game
