@@ -1,124 +1,82 @@
-[18:08:02] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:08:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:08:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:08:03] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:08:03] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:08:03] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:08:03] [main/INFO]: Reloading ResourceManager: Default
-[18:08:05] [Worker-Main-4/INFO]: Loaded 7 recipes
-[18:08:07] [Worker-Main-4/INFO]: Loaded 1109 advancements
-[18:08:11] [Server thread/INFO]: Starting minecraft server version 21w20a
-[18:08:11] [Server thread/INFO]: Loading properties
-[18:08:11] [Server thread/INFO]: Default game type: SURVIVAL
-[18:08:11] [Server thread/INFO]: Generating keypair
-[18:08:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:08:12] [Server thread/INFO]: Using epoll channel type
-[18:08:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:08:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:08:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:08:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:08:12] [Server thread/INFO]: Preparing level "world"
-[18:08:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:24] [Server thread/INFO]: Preparing spawn area: 0%
-[18:08:24] [Server thread/INFO]: Preparing spawn area: 47%
-[18:08:25] [Server thread/INFO]: Time elapsed: 12187 ms
-[18:08:25] [Server thread/INFO]: Done (12.628s)! For help, type "help"
-[18:08:25] [Server thread/INFO]: Starting remote control listener
-[18:08:25] [Server thread/INFO]: Thread RCON Listener started
-[18:08:25] [Server thread/INFO]: RCON running on 0.0.0.0:25575
-[18:08:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
-[18:08:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7720ms or 154 ticks behind
-[18:39:14] [Server thread/INFO]: Mhortis[/181.58.38.1:21903] logged in with entity id 377 at (52.543993341845145, 11.0, 51.1031537242381)
-[18:39:14] [Server thread/INFO]: Mhortis joined the game
-[18:46:35] [Server thread/INFO]: davidalejo2408[/179.15.115.58:55803] logged in with entity id 1505 at (-78.4452504389377, 63.0, 358.53664503958316)
-[18:46:35] [Server thread/INFO]: davidalejo2408 joined the game
-[18:56:33] [Server thread/INFO]: davidalejo2408 lost connection: Disconnected
-[18:56:33] [Server thread/INFO]: davidalejo2408 left the game
-[18:59:59] [Server thread/INFO]: Mhortis has made the advancement [Cover Me with Diamonds]
-[20:12:40] [Server thread/INFO]: Mhortis lost connection: Disconnected
-[20:12:40] [Server thread/INFO]: Mhortis left the game
-[21:10:47] [Server thread/INFO]: pipelo[/181.138.220.136:56138] logged in with entity id 14680 at (-6.5, 63.0, 213.5)
-[21:10:47] [Server thread/INFO]: pipelo joined the game
-[21:16:31] [Server thread/INFO]: pipelo lost connection: Disconnected
-[21:16:31] [Server thread/INFO]: pipelo left the game
-[21:16:34] [Server thread/INFO]: pipelo[/181.138.220.136:56166] logged in with entity id 15832 at (-130.50277386634022, 93.0, 255.9751493336192)
-[21:16:34] [Server thread/INFO]: pipelo joined the game
-[21:20:09] [Server thread/INFO]: pipelo lost connection: Disconnected
-[21:20:09] [Server thread/INFO]: pipelo left the game
-[21:24:30] [Server thread/INFO]: pipelo[/181.138.220.136:56282] logged in with entity id 16704 at (17.288424231470994, 63.0, 254.82331629914097)
-[21:24:30] [Server thread/INFO]: pipelo joined the game
-[21:24:31] [Server thread/INFO]: davidalejo2408[/179.15.115.58:61049] logged in with entity id 16706 at (-78.96425095386105, 63.0, 357.2498736939517)
-[21:24:31] [Server thread/INFO]: davidalejo2408 joined the game
-[21:24:40] [Server thread/INFO]: davidalejo2408 lost connection: Disconnected
-[21:24:40] [Server thread/INFO]: davidalejo2408 left the game
-[21:24:49] [Server thread/INFO]: <pipelo> oe
-[21:25:11] [Server thread/INFO]: <pipelo> oe
-[21:37:21] [Server thread/INFO]: pipelo was slain by Drowned
-[21:43:11] [Server thread/INFO]: Mhortis[/181.58.38.1:8196] logged in with entity id 18459 at (69.36007957591781, 11.0, 40.73879539149216)
-[21:43:11] [Server thread/INFO]: Mhortis joined the game
-[21:46:15] [Server thread/INFO]: pipelo lost connection: Disconnected
-[21:46:15] [Server thread/INFO]: pipelo left the game
-[21:50:07] [Server thread/INFO]: Belenor[/181.130.12.74:64708] logged in with entity id 19542 at (-133.547267875017, 93.0, 263.3651087434616)
-[21:50:07] [Server thread/INFO]: Belenor joined the game
-[21:54:22] [Server thread/INFO]: <Belenor> hola segio =)
-[22:17:48] [Server thread/INFO]: davidalejo2408[/179.15.115.58:62871] logged in with entity id 27381 at (-78.96425095386105, 63.0, 357.2498736939517)
-[22:17:48] [Server thread/INFO]: davidalejo2408 joined the game
-[22:21:50] [Server thread/INFO]: <davidalejo2408> holas
-[22:42:01] [Server thread/INFO]: pipelo[/181.138.220.136:51488] logged in with entity id 36858 at (16.290267783730165, 63.0, 246.78115010028182)
-[22:42:01] [Server thread/INFO]: pipelo joined the game
-[22:42:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[22:42:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
-[22:42:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
-[22:43:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3038ms or 60 ticks behind
-[22:43:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
-[22:43:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
-[22:47:22] [Server thread/INFO]: pipelo has made the advancement [Acquire Hardware]
-[22:47:33] [Server thread/INFO]: pipelo has made the advancement [Suit Up]
-[22:48:50] [Server thread/INFO]: pipelo has made the advancement [Isn't It Iron Pick]
-[22:50:28] [Server thread/INFO]: pipelo has made the advancement [Stone Age]
-[23:05:01] [Server thread/INFO]: davidalejo2408 drowned
-[23:05:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[23:05:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2833ms or 56 ticks behind
-[23:06:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[23:07:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[23:08:22] [Server thread/INFO]: pipelo has made the advancement [Getting an Upgrade]
-[23:08:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[23:09:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
-[23:09:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
-[23:10:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[23:10:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[23:11:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[23:11:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
-[23:11:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[23:12:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[23:12:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[23:13:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[23:13:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[23:16:13] [Server thread/INFO]: Mhortis has made the advancement [We Need to Go Deeper]
-[23:16:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[23:16:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3196ms or 63 ticks behind
-[23:22:22] [Server thread/INFO]: Mhortis lost connection: Disconnected
-[23:22:22] [Server thread/INFO]: Mhortis left the game
-[23:29:37] [Server thread/INFO]: davidalejo2408 lost connection: Disconnected
-[23:29:37] [Server thread/INFO]: davidalejo2408 left the game
+[00:12:39] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:12:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:12:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:12:41] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:12:41] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:12:41] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:12:41] [main/INFO]: Reloading ResourceManager: Default
+[00:12:43] [Worker-Main-4/INFO]: Loaded 7 recipes
+[00:12:44] [Worker-Main-4/INFO]: Loaded 1109 advancements
+[00:12:48] [Server thread/INFO]: Starting minecraft server version 21w20a
+[00:12:48] [Server thread/INFO]: Loading properties
+[00:12:48] [Server thread/INFO]: Default game type: SURVIVAL
+[00:12:48] [Server thread/INFO]: Generating keypair
+[00:12:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:12:49] [Server thread/INFO]: Using epoll channel type
+[00:12:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:12:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:12:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:12:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:12:50] [Server thread/INFO]: Preparing level "world"
+[00:12:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:12:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:12:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:12:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:12:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:12:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:12:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:12:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:12:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:12:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:12:55] [Server thread/INFO]: Preparing spawn area: 0%
+[00:12:55] [Server thread/INFO]: Preparing spawn area: 0%
+[00:12:56] [Server thread/INFO]: Preparing spawn area: 77%
+[00:12:57] [Server thread/INFO]: Time elapsed: 6508 ms
+[00:12:57] [Server thread/INFO]: Done (6.833s)! For help, type "help"
+[00:12:57] [Server thread/INFO]: Starting remote control listener
+[00:12:57] [Server thread/INFO]: Thread RCON Listener started
+[00:12:57] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[00:12:57] [Server thread/WARN]: UUID of added entity already exists: bgx['Enderman'/310, l='ServerLevel[world]', x=-43.32, y=54.00, z=274.26]
+[00:12:57] [Server thread/WARN]: UUID of added entity already exists: bdm['Cod'/368, l='ServerLevel[world]', x=-12.84, y=59.83, z=312.50]
+[00:12:57] [Server thread/WARN]: UUID of added entity already exists: bdm['Cod'/369, l='ServerLevel[world]', x=-13.45, y=59.10, z=311.81]
+[00:12:57] [Server thread/WARN]: UUID of added entity already exists: bdm['Cod'/370, l='ServerLevel[world]', x=-14.63, y=58.74, z=311.42]
+[00:12:57] [Server thread/WARN]: UUID of added entity already exists: bhd['Guardian'/410, l='ServerLevel[world]', x=51.50, y=51.00, z=328.50]
+[00:12:57] [Server thread/WARN]: UUID of added entity already exists: bea['Salmon'/429, l='ServerLevel[world]', x=-22.52, y=51.04, z=322.28]
+[00:12:57] [Server thread/WARN]: UUID of added entity already exists: bea['Salmon'/430, l='ServerLevel[world]', x=-22.34, y=51.48, z=321.55]
+[00:12:57] [Server thread/WARN]: UUID of added entity already exists: bea['Salmon'/432, l='ServerLevel[world]', x=-23.38, y=50.99, z=321.62]
+[00:12:57] [Server thread/WARN]: UUID of added entity already exists: bea['Salmon'/435, l='ServerLevel[world]', x=-23.33, y=51.51, z=320.19]
+[00:12:57] [Server thread/WARN]: UUID of added entity already exists: bea['Salmon'/438, l='ServerLevel[world]', x=-24.49, y=50.92, z=321.56]
+[00:12:57] [Server thread/WARN]: UUID of added entity already exists: bea['Salmon'/447, l='ServerLevel[world]', x=-32.34, y=53.41, z=323.27]
+[00:12:57] [Server thread/WARN]: UUID of added entity already exists: bea['Salmon'/448, l='ServerLevel[world]', x=-34.48, y=52.81, z=322.50]
+[00:12:58] [Server thread/INFO]: Pipe[/181.128.20.33:58950] logged in with entity id 524 at (-34.483027554131624, 71.5, 292.1247087609881)
+[00:12:58] [Server thread/INFO]: Pipe joined the game
+[00:12:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2478ms or 49 ticks behind
+[00:13:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20344ms or 406 ticks behind
+[00:13:41] [Server thread/INFO]: davidalejo2408[/179.15.115.58:50823] logged in with entity id 579 at (-84.11957061008452, 12.0, 389.827109046501)
+[00:13:41] [Server thread/INFO]: davidalejo2408 joined the game
+[00:13:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8763ms or 175 ticks behind
+[00:14:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3157ms or 63 ticks behind
+[00:14:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4026ms or 80 ticks behind
+[00:14:43] [Server thread/INFO]: Mhortis[/181.58.38.1:8209] logged in with entity id 715 at (65.69999998807907, 11.0, 11.596199149514662)
+[00:14:43] [Server thread/INFO]: Mhortis joined the game
+[00:15:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14485ms or 289 ticks behind
+[00:15:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4469ms or 89 ticks behind
+[00:17:20] [Server thread/INFO]: davidalejo2408 lost connection: Disconnected
+[00:17:20] [Server thread/INFO]: davidalejo2408 left the game
+[00:27:48] [Server thread/INFO]: <Pipe> Sergio
+[00:27:55] [Server thread/INFO]: <Pipe> estas por ahi?
+[00:27:59] [Server thread/INFO]: <Mhortis> sip
+[00:28:08] [Server thread/INFO]: <Pipe> tienes forma de dormir?
+[00:28:17] [Server thread/INFO]: <Mhortis> nop
+[00:28:27] [Server thread/INFO]: <Pipe> puedes desconectarte un momento?
+[00:28:32] [Server thread/INFO]: <Mhortis> dale
+[00:28:37] [Server thread/INFO]: Mhortis lost connection: Disconnected
+[00:28:37] [Server thread/INFO]: Mhortis left the game
+[00:28:38] [Server thread/INFO]: <Pipe> listo
+[00:28:44] [Server thread/INFO]: Mhortis[/181.58.38.1:8251] logged in with entity id 4849 at (65.56365704807406, 11.0, -110.74952210367013)
+[00:28:44] [Server thread/INFO]: Mhortis joined the game
+[00:29:15] [Server thread/INFO]: Mhortis lost connection: Timed out
+[00:29:15] [Server thread/INFO]: Mhortis left the game
+[00:29:15] [Server thread/WARN]: handleDisconnection() called twice
+[00:29:26] [Server thread/INFO]: Mhortis[/181.58.38.1:8206] logged in with entity id 5057 at (65.52417377535279, 11.0, -115.65203558891524)
+[00:29:26] [Server thread/INFO]: Mhortis joined the game
