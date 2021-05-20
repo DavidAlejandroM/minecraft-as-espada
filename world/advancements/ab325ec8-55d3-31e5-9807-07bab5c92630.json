@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2021-05-20 04:37:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2021-05-15 17:35:08 +0000"
@@ -89,9 +95,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2021-05-20 04:53:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2021-05-15 16:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-05-20 04:37:39 +0000"
     },
     "done": true
   },
@@ -137,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-20 04:38:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2021-05-15 17:35:08 +0000"
@@ -146,6 +170,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-05-19 02:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2021-05-20 04:37:39 +0000"
     },
     "done": true
   },
@@ -356,6 +386,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2021-05-19 02:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-20 04:38:39 +0000"
     },
     "done": true
   },
@@ -676,6 +712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-20 04:38:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-05-15 17:35:08 +0000"
@@ -763,6 +805,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2021-05-15 16:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-20 04:38:39 +0000"
     },
     "done": true
   },
@@ -856,6 +904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-05-20 04:37:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2021-05-15 17:04:40 +0000"
@@ -916,6 +970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-20 04:38:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2021-05-15 18:43:25 +0000"
@@ -955,6 +1015,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2021-05-15 21:00:08 +0000",
+      "minecraft:mountains": "2021-05-20 04:47:22 +0000",
       "minecraft:deep_cold_ocean": "2021-05-15 21:00:25 +0000",
       "minecraft:desert": "2021-05-15 16:52:04 +0000",
       "minecraft:deep_frozen_ocean": "2021-05-15 21:04:47 +0000",
@@ -965,6 +1026,7 @@
       "minecraft:wooded_mountains": "2021-05-15 21:06:23 +0000",
       "minecraft:stone_shore": "2021-05-15 21:06:18 +0000",
       "minecraft:wooded_badlands_plateau": "2021-05-15 16:52:29 +0000",
+      "minecraft:swamp": "2021-05-20 04:46:20 +0000",
       "minecraft:plains": "2021-05-15 16:32:32 +0000"
     },
     "done": false
@@ -1139,6 +1201,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2021-05-20 04:52:51 +0000",
       "minecraft:nether_wastes": "2021-05-15 20:50:32 +0000"
     },
     "done": false
@@ -1311,6 +1374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-20 04:38:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2021-05-15 19:32:00 +0000"
@@ -1446,6 +1515,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2021-05-15 16:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-20 04:38:39 +0000"
     },
     "done": true
   },
@@ -1586,6 +1661,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2021-05-15 17:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-20 04:38:39 +0000"
     },
     "done": true
   },
@@ -1752,6 +1833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-20 04:38:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2021-05-15 17:39:08 +0000"
@@ -1830,6 +1917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2021-05-20 04:37:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-05-15 21:11:58 +0000"
@@ -1893,6 +1986,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-05-15 21:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2021-05-20 04:37:39 +0000"
     },
     "done": true
   },
@@ -1974,6 +2073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-20 04:38:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2021-05-15 16:55:01 +0000"
@@ -1983,6 +2088,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2021-05-19 02:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2021-05-20 04:37:39 +0000"
     },
     "done": true
   },
@@ -2076,6 +2187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-20 04:38:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2021-05-17 03:29:27 +0000"
@@ -2112,6 +2229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2021-05-20 04:37:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2021-05-15 17:16:35 +0000"
@@ -2133,6 +2256,18 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-05-15 18:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2021-05-20 04:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-20 04:38:39 +0000"
     },
     "done": true
   },
@@ -2340,9 +2475,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-20 04:38:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2021-05-19 02:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-05-20 04:37:39 +0000"
     },
     "done": true
   },
