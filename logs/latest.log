@@ -1115,3 +1115,19 @@
 [07:38:19] [Server thread/INFO]: BastianBlack left the game
 [07:39:01] [Server thread/INFO]: davidalejo2408 lost connection: Disconnected
 [07:39:01] [Server thread/INFO]: davidalejo2408 left the game
+[15:12:06] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[15:12:06] [Server thread/INFO]: [Rcon: Stopping the server]
+[15:12:06] [Server thread/INFO]: Stopping server
+[15:12:06] [Server thread/INFO]: Saving players
+[15:12:06] [Server thread/INFO]: Saving worlds
+[15:12:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:12:07] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[15:12:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:12:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:12:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:12:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:12:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:12:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:12:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:12:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:12:12] [Server thread/INFO]: Thread RCON Listener stopped
