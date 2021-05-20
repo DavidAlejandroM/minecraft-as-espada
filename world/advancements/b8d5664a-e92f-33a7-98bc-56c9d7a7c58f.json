@@ -386,7 +386,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2021-05-19 03:32:50 +0000",
-      "bread": "2021-05-19 02:09:27 +0000"
+      "bread": "2021-05-19 02:09:27 +0000",
+      "melon_slice": "2021-05-20 05:08:43 +0000"
     },
     "done": false
   },
@@ -405,6 +406,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-05-19 01:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2021-05-20 05:11:05 +0000"
     },
     "done": true
   },
@@ -960,6 +967,7 @@
       "minecraft:spider": "2021-05-19 02:09:09 +0000",
       "minecraft:creeper": "2021-05-19 22:10:26 +0000",
       "minecraft:phantom": "2021-05-20 04:07:17 +0000",
+      "minecraft:zombified_piglin": "2021-05-20 05:10:59 +0000",
       "minecraft:enderman": "2021-05-19 22:09:14 +0000",
       "minecraft:zombie": "2021-05-19 02:10:18 +0000"
     },
@@ -1070,6 +1078,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2021-05-19 04:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2021-05-20 05:11:05 +0000"
     },
     "done": true
   },
@@ -1247,6 +1261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2021-05-20 05:20:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2021-05-19 03:48:38 +0000"
@@ -1256,6 +1276,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2021-05-19 04:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2021-05-20 05:20:20 +0000"
     },
     "done": true
   },
@@ -1289,6 +1315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2021-05-20 05:20:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2021-05-19 22:33:54 +0000"
@@ -1304,6 +1336,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2021-05-19 17:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2021-05-20 05:06:34 +0000"
     },
     "done": true
   },
@@ -1677,6 +1715,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2021-05-19 01:07:37 +0000",
       "minecraft:badlands_plateau": "2021-05-19 02:20:42 +0000",
+      "minecraft:forest": "2021-05-20 05:16:30 +0000",
       "minecraft:desert": "2021-05-19 01:04:38 +0000",
       "minecraft:badlands": "2021-05-19 01:07:20 +0000",
       "minecraft:beach": "2021-05-19 23:11:01 +0000",
@@ -1892,13 +1931,20 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2021-05-19 23:16:15 +0000"
+      "minecraft:nether_wastes": "2021-05-19 23:16:15 +0000",
+      "minecraft:soul_sand_valley": "2021-05-20 05:14:59 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2021-05-19 17:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2021-05-20 05:06:34 +0000"
     },
     "done": true
   },

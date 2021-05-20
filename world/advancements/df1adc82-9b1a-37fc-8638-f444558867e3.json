@@ -1504,6 +1504,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2021-05-20 05:10:11 +0000",
       "bread": "2021-05-16 02:26:56 +0000",
       "golden_apple": "2021-05-17 00:14:09 +0000",
       "cooked_chicken": "2021-05-16 05:57:18 +0000"

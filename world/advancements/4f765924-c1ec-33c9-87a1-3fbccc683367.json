@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2021-05-20 05:00:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-05-17 23:23:42 +0000"
@@ -542,6 +548,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2021-05-17 20:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2021-05-20 05:00:38 +0000"
     },
     "done": true
   },
@@ -738,6 +750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2021-05-20 05:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-05-17 19:54:18 +0000"
@@ -816,9 +834,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2021-05-20 05:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2021-05-19 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2021-05-20 05:20:31 +0000"
     },
     "done": true
   },
@@ -1245,7 +1275,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2021-05-20 04:54:09 +0000",
-      "minecraft:nether_wastes": "2021-05-20 03:53:36 +0000"
+      "minecraft:nether_wastes": "2021-05-20 03:53:36 +0000",
+      "minecraft:soul_sand_valley": "2021-05-20 05:02:12 +0000",
+      "minecraft:basalt_deltas": "2021-05-20 05:00:38 +0000"
     },
     "done": false
   },
@@ -1954,6 +1986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2021-05-20 05:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2021-05-17 20:31:11 +0000"
@@ -2005,6 +2043,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2021-05-18 00:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2021-05-20 05:12:33 +0000"
     },
     "done": true
   },
@@ -2311,6 +2355,12 @@
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2021-05-17 20:35:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2021-05-20 05:00:38 +0000"
     },
     "done": true
   },
