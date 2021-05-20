@@ -602,6 +602,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2021-05-17 21:13:30 +0000",
+      "minecraft:ghast": "2021-05-20 06:29:02 +0000",
       "minecraft:spider": "2021-05-18 00:40:04 +0000",
       "minecraft:creeper": "2021-05-18 00:42:42 +0000",
       "minecraft:phantom": "2021-05-18 04:15:44 +0000",

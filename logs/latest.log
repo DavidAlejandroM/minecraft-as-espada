@@ -1079,3 +1079,14 @@
 [06:19:39] [Server thread/INFO]: Villager bja['Librarian'/121596, l='ServerLevel[world]', x=1370.49, y=63.00, z=-337.51] died, message: 'Librarian was slain by Zombie'
 [06:19:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [06:22:11] [Server thread/INFO]: davidalejo2408 was blown up by Creeper
+[06:31:29] [Server thread/WARN]: davidalejo2408 moved too quickly! -8.991522393746624,1.9986640208878583,4.200665477444094
+[06:49:59] [Server thread/INFO]: davidalejo2408 lost connection: Disconnected
+[06:49:59] [Server thread/INFO]: davidalejo2408 left the game
+[06:50:01] [Server thread/INFO]: davidalejo2408[/179.15.115.58:59972] logged in with entity id 127136 at (-16.940691519842947, 75.0, 38.22051178060726)
+[06:50:01] [Server thread/INFO]: davidalejo2408 joined the game
+[06:53:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[06:53:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[06:53:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2370ms or 47 ticks behind
+[06:53:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2922ms or 58 ticks behind
+[06:54:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[06:54:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
