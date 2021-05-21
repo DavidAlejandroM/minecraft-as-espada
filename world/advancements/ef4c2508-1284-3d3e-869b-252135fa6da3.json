@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2021-05-21 01:07:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2021-05-17 17:48:22 +0000"
@@ -98,6 +104,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2021-05-19 21:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-05-21 01:11:51 +0000"
     },
     "done": true
   },
@@ -365,6 +377,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2021-05-21 00:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2021-05-21 02:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-05-19 21:50:59 +0000"
@@ -527,6 +551,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2021-05-17 22:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-05-21 01:11:51 +0000"
     },
     "done": true
   },
@@ -1280,6 +1310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2021-05-21 01:29:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2021-05-19 22:04:55 +0000"
@@ -1394,6 +1430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2021-05-21 01:11:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2021-05-17 20:23:35 +0000"
@@ -1421,6 +1463,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2021-05-19 21:52:54 +0000",
+      "apple": "2021-05-21 00:59:25 +0000",
       "cooked_chicken": "2021-05-17 18:04:57 +0000"
     },
     "done": false
@@ -1596,7 +1639,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2021-05-18 01:38:48 +0000",
-      "minecraft:cow": "2021-05-18 01:34:27 +0000"
+      "minecraft:cow": "2021-05-18 01:34:27 +0000",
+      "minecraft:chicken": "2021-05-21 01:24:14 +0000"
     },
     "done": false
   },
@@ -1645,6 +1689,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2021-05-17 18:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2021-05-21 01:11:18 +0000"
     },
     "done": true
   },
@@ -2236,6 +2286,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2021-05-21 01:07:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-05-17 18:11:12 +0000"
@@ -2329,6 +2385,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-05-17 20:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-05-21 01:11:51 +0000"
     },
     "done": true
   },
