@@ -145,3 +145,7 @@
 [04:24:08] [Server thread/INFO]: pipelo left the game
 [04:24:33] [Server thread/INFO]: pipelo[/181.139.25.29:51573] logged in with entity id 16935 at (-44.72381635928975, 63.0, 386.25491040680333)
 [04:24:33] [Server thread/INFO]: pipelo joined the game
+[04:40:36] [Server thread/INFO]: pipelo lost connection: Disconnected
+[04:40:36] [Server thread/INFO]: pipelo left the game
+[04:54:36] [Server thread/INFO]: Pipe lost connection: Disconnected
+[04:54:36] [Server thread/INFO]: Pipe left the game
